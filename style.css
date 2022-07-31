@@ -67,3 +67,17 @@ h1{
         transform: translateX(0);
     }
 }
+.primary-footer{
+    position: fixed;
+    bottom: 0;
+    padding: 20px;
+    background-color:hsl(0 0% 100% / 0.3);
+    width: 100%;
+    display: flex;
+}
+.insta-link{
+    color: blue;
+}
+.container-footer{
+    margin-inline: auto;
+}
